@@ -1,0 +1,3 @@
+(a) Buffer de teclado: Fila (Queue), pois os caracteres são processados na ordem em que chegam.
+(b) Chamada de função: Pilha (Stack), porque as chamadas seguem o padrão LIFO (último a entrar, primeiro a sair).
+(c) Impressão: Fila (Queue), porque os documentos precisam ser processados em ordem de chegada.
